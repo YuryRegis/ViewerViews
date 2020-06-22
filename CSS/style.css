@@ -1,0 +1,47 @@
+
+body {
+    background-color:rgba(0,  0,  0,  0.5);
+    margin: 0px;
+}
+
+
+section {
+    margin:     0px;
+    height:     auto;
+    width:      auto;
+    display:    flex;
+    align-self: center;
+}
+
+
+p {
+    margin:       0px;
+    height:       100%;
+    width:        100%;
+    font-size:    500%;
+    padding-left: 30px;
+    color:      white;
+    align-self:   center;
+    display:      inline-flex;
+}
+
+
+.conteudo {
+    width:       50%;
+    height:      auto;
+    display:     flex;
+    align-items: center;
+}
+
+
+.img {
+    width:   30%;
+    height:  auto;
+    display: flex;
+}
+
+
+.stream_logo {
+    height: auto;
+    width:  fit-content;
+}
